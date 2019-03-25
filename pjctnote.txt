@@ -1,7 +1,4 @@
 Todo:
-- get domain hosted
-- hook up the video
-- padding on about-us section
 - form submit working
 - footer section cleaned up
 
