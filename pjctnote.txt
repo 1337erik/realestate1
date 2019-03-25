@@ -1,7 +1,14 @@
 Todo:
-    - finish up the content on the Pages
-        - re-host this website
-    - meet with Anthony
+- get domain hosted
+- hook up the video
+- padding on about-us section
+- form submit working
+- footer section cleaned up
+
+
+
+
+
 
 
 

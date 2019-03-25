@@ -140,9 +140,9 @@
 
           <div class="col-md-6 d-flex">
 
-            <div class="img d-flex align-self-stretch align-items-center justify-content-center" style="background-image:url(images/about.jpg);">
+            <div class="img d-flex align-self-stretch align-items-center justify-content-center" style="background-image:url( images/about.jpg );">
 
-              <a href="https://vimeo.com/45830194" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
+              <a href="https://www.youtube.com/watch?v=ILoKvJD9BKU" class="icon-video popup-vimeo d-flex justify-content-center align-items-center">
 
                 <span class="icon-play"></span>
               </a>
@@ -254,7 +254,7 @@
 
       <div class="container">
 
-        <div class="row mb-5 pb-3">
+        <div class="row mb-5 pb-3 px-3">
 
             <h2>Are you currently facing any of these situations?</h2>
 
@@ -309,7 +309,8 @@
 
         <div class="row d-flex justify-content-center">
 
-          <form action="#" class="col-sm-12">
+          <form name="consultation-request" method="POST" netlify netlify-honeypot="huny">
+            <input name="huny" style="display:none" />
 
             <div class="form-group">
 
@@ -545,7 +546,8 @@
 
             <h3 class="mb-4">Contact Us</h3>
 
-            <form action="#" netlify>
+            <form name="contact-form" method="POST" netlify netlify-honeypot="huny">
+              <input name="huny" style="display:none" />
 
               <div class="form-group">
 
