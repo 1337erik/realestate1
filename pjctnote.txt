@@ -5,45 +5,6 @@ Todo:
 
 
 
-
-
-
-
-
-- The form for lead get ( on website )
-- Submit to his email ( Anthony@305team.com )
-- Use exact copy from current site ( giantcashbuyer.com )
-- Have a hero-section for intro video
-
-
-
-Pages
-
-1. Contact us
-2. Main page
-    - hero video
-    - main form
-    - about us information
-4. How-it-works ( combine the following )
-    1. ( see reinventedproperties.com compare page )
-    2. ( see reinventedproperties.com process page )
-
-Hero
-Nav
-Router-view =>
-    about us,
-    contact,
-    how-it-works
-Main form
-
-
 Testimonial page => next month or 2
     - mainly youtube videos
     - think about having 1 at a time, lazy loading, and transitioning between each one
-
-
-
-
-
-Bug reports
-
